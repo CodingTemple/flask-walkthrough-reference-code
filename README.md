@@ -47,7 +47,16 @@ Topics Covered:
 # Day 3
 
 ## Topics Covered
-
+- User authentication
+- Token Validation 
+- Protected Routes
+- CRUD Operations
+    - Create (POST)
+    - Retrieve (GET)
+    - Update (PUT/POST)
+    - Delete (DELETE)
+- User sessions
+- Helper Functions
 
 ## Python Packages
 - Flask Login: `pip install flask-login`
