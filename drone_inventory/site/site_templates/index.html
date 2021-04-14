@@ -13,6 +13,12 @@
                         {{ msg }}
                         <button type="button" class="close" data-dismiss = "alert">&times;</button>
                     </div>
+
+                {% elif cat == 'auth-success' %}
+                    <div class="alert alert-success">
+                        {{ msg }}
+                        <button type="button" class="close" data-dismiss = "alert">&times;</button>
+                    </div>
                 {% endif %}
             {% endfor %}
         {% endif %}
