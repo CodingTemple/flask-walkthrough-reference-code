@@ -62,3 +62,13 @@ Topics Covered:
 - Flask Login: `pip install flask-login`
 - Flask Marshmallow: `pip install flask-marshmallow`
 - Flask CORS: `pip install flask-cors`
+
+# Day 4
+
+## Topics Covered
+- Heroku Deployment
+- Database Setup on Heroku
+- Creating Procfile
+
+# Python Packages
+- Gunicorn `pip install gunicorn`
