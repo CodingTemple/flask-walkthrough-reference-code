@@ -1,1 +1,1 @@
-web: gunicorn drone_inventory:drone_inventory --preload --timeout 60
+web: gunicorn drone_inventory:app --preload --timeout 60
