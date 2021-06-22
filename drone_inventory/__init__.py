@@ -24,5 +24,4 @@ root_db.init_app(app)
 migrate = Migrate(root_db)
 
 
-
-from drone_inventory import models
+import models
